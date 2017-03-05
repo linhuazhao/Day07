@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GBK"?>
+<contactlist>
+    <contact id='001'> 
+        <name>林华钊</name>
+        <age>22</age>
+        <iphone>13611467220</iphone>
+        <email>544497789@qq.com </email>
+        <qq>544497789</qq>
+    </contact>
+    <contact id='002'> 
+        <name>梁绮璐</name>
+        <age>18</age>
+        <iphone>13725309385</iphone>
+        <email>544497789@qq.com </email>
+        <qq>544497789</qq>
+    </contact>
+</contactlist>
